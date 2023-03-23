@@ -1,6 +1,6 @@
 # Book-Search-Engine
 
-##About
+## About
 
 This is a search engine for books using the google books api.
 
@@ -16,11 +16,11 @@ Navigate to the url provided below, enter a book name in the search bar, and hit
 
 See LICENSE in repo.
 
-##Contact
+##C ontact
 
 email me at: liamallen343@gmail.com,
 with any concerns you may have.
 
-##Link
+## Link
 
 https://book-search-challenge-21-mern.herokuapp.com/
